@@ -1,3 +1,3 @@
-# git-library
+# eve-ng
 
-Python for network engineers repository
+A collcection of components to build eve-ng labs
