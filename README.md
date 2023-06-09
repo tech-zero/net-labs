@@ -1,3 +1,4 @@
-# eve-ng
+# EVE-NG
+---
 
-A collcection of components to build eve-ng labs
+Emulated virtual environment for network, security, and DevOps professionals.
